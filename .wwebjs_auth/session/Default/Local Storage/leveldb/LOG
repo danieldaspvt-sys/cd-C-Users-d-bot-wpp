@@ -1,0 +1,6 @@
+2026/03/02-23:07:39.191 16ec Reusing MANIFEST C:\Users\d\bot-wpp\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-23:07:39.196 16ec Recovering log #32
+2026/03/02-23:07:39.199 16ec Reusing old log C:\Users\d\bot-wpp\.wwebjs_auth\session\Default\Local Storage\leveldb/000032.log 
+2026/03/03-08:29:30.336 1fa8 Level-0 table #37: started
+2026/03/03-08:29:30.349 1fa8 Level-0 table #37: 15402 bytes OK
+2026/03/03-08:29:30.351 1fa8 Delete type=0 #32

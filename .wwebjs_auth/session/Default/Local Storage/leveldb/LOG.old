@@ -1,0 +1,15 @@
+2026/03/02-22:46:42.926 ec4 Reusing MANIFEST C:\Users\d\bot-wpp\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-22:46:42.940 ec4 Recovering log #29
+2026/03/02-22:46:42.942 ec4 Reusing old log C:\Users\d\bot-wpp\.wwebjs_auth\session\Default\Local Storage\leveldb/000029.log 
+2026/03/02-23:06:54.837 24b4 Level-0 table #33: started
+2026/03/02-23:06:54.844 24b4 Level-0 table #33: 16544 bytes OK
+2026/03/02-23:06:54.847 24b4 Delete type=0 #29
+2026/03/02-23:06:54.848 24b4 Compacting 4@0 + 1@1 files
+2026/03/02-23:06:54.855 24b4 Generated table #34@0: 229 keys, 14591 bytes
+2026/03/02-23:06:54.855 24b4 Compacted 4@0 + 1@1 files => 14591 bytes
+2026/03/02-23:06:54.856 24b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/02-23:06:54.857 24b4 Delete type=2 #21
+2026/03/02-23:06:54.857 24b4 Delete type=2 #24
+2026/03/02-23:06:54.857 24b4 Delete type=2 #27
+2026/03/02-23:06:54.857 24b4 Delete type=2 #30
+2026/03/02-23:06:54.857 24b4 Delete type=2 #33
